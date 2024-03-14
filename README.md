@@ -11,6 +11,7 @@ In this project, I was tasked to debug the fitness webpage by preventing users f
 ## How to Test 
 + Open the index.html in a browser
 + Enter your fitness goal in the input box and an alert message will pop up if the goal entered already exists
+![](./Debug%20the%20DOM/JSL02_Solution.gif)
 
 ## Author
 Dimpho Molepo
